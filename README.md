@@ -37,9 +37,3 @@ Please feel free to comment, suggest, stab or pull request. The goal is to creat
 
 [![Flattr Button](http://api.flattr.com/button/flattr-badge-large.png)][Flattr]
 [Flattr]: https://flattr.com/thing/1813497/
-
-
-Note
-----
-
-Don't hesitate to fork this repo for your own need :)
